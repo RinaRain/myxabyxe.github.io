@@ -1,12 +1,15 @@
-h1, h2, p{
-	color: red;
-}
 
 body { 
 background-attachment: fixed;
 background-image: url(splash_photo.jpeg);
 background-position: center center;
 background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1, h2, p {
+  color: #704b20;
+  text-align: center;
 }
 
 ul.navigation {
@@ -34,4 +37,3 @@ ul.navigation a:hover {
   background-color: black;
   color: white;
 }
-	

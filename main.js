@@ -19,7 +19,7 @@ button1.addEventListener("click", function(e) {
 });
 
 button2.addEventListener("click", function(e) {
-	showSection1();
+	showSection1()
 });
 
-showSection1();
+showSection1()

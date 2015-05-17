@@ -3,22 +3,12 @@ background-attachment: fixed;
 background-image: url(splash_photo.jpeg);
 background-position: center center;
 background-repeat: no-repeat;
-background-size: cover;
-font: 10px/16px verdana; 
-color: 333; 
-margin: 0px; 	 
+background-size: cover; 
 }
 
-h1 {
-	top:-40px;
-	left:45px;
-	position:absolute;
-	width:515px;
-	height:70px;
-	text-indent:-5000px;
-}
 
-h2, p{
+
+h1, h2, p{
 	color: red;
 }
 

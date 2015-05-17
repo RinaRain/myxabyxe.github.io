@@ -1,12 +1,12 @@
+h1, h2, p{
+	color: red;
+}
+
 body { 
 background-attachment: fixed;
 background-image: url(splash_photo.jpeg);
 background-position: center center;
 background-repeat: no-repeat;
-}
-
-h1, h2, p{
-	color: red;
 }
 
 ul.navigation {

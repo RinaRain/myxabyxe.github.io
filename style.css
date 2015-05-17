@@ -6,7 +6,11 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
-h1, h2, p{
+h1 {
+	font-size: 20vw;
+}
+
+h2, p{
 	color: red;
 }
 
@@ -35,3 +39,4 @@ ul.navigation a:hover {
   background-color: black;
   color: white;
 }
+	

@@ -7,7 +7,8 @@ background-size: cover;
 }
 
 h1 {
-	font-size: 20vw;
+	font-size: 15vw;
+	color: green;
 }
 
 h2, p{
